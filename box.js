@@ -1,4 +1,4 @@
-class Box {
+export default class Box {
     construtor() {
         this.size = 4;
     }
